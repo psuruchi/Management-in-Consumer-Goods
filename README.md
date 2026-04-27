@@ -1,2 +1,32 @@
 # Management-in-Consumer-Goods
 AtliQ Hardwares (imaginary company) is one of the leading computer hardware producers in India and has expanded well in other countries too.   However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions.
+
+ They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director, wanted to hire someone good at both tech and soft skills. Hence, he decided to conduct a SQL challenge, which will help him understand both skills.
+
+**Task**
+
+Imagine yourself as the applicant for this role and perform the following task
+
+1.    Check ‘ad-hoc-requests.pdf’ - there are 10 ad hoc requests for which the business needs insights.
+2.    You need to run a SQL query to answer these requests. 
+3.    The target audience of this dashboard is top-level management - hence, you need to create a presentation to show the insights.
+4.    Be creative with your presentation; an audio/video presentation will have more weightage.
+
+**Other resources provided:**
+
+a.    Dataset required to provide 
+b.    Metadata
+c.    Hints (try not to use the hints to develop your skills quicker)
+d.    Sample questions and Presentation
+
+**Data & Resources**
+
+Dataset required to answer preliminary analysis questions.
+Metadata
+Supporting documents
+
+** What I have Done**
+
+•	Written SQL queries using subqueries, CTE, Windows functions, etc.
+•	Imported database to Power BI, created data model, Created Visualization.
+•	Created a Power Point presentation to show the 10 ad-hoc request details.
